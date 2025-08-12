@@ -1,0 +1,8 @@
+{
+  "name": "90day-agent-site",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "openai": "^4.56.0"
+  }
+}
